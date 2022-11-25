@@ -1,0 +1,2 @@
+# lista-Unioja
+halmazokközös elemei
