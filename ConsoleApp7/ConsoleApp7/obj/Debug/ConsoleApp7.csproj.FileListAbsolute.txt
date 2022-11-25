@@ -1,0 +1,8 @@
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Ádám\Desktop\óra c #\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
